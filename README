@@ -1,0 +1,7 @@
+A simple project with no source code, for generating a useful stand alone
+Clojure jar.
+
+Use `lein uberjar` to create a standalone jar.
+
+On a properly configured Linux system, the jar will be an executable if you
+chmod +x.
