@@ -1,0 +1,3 @@
+#!/home/justin/bin/bench
+
+(println "hello, clojure")
