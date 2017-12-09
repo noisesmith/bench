@@ -1,5 +1,5 @@
 (defproject bench "1.0.0"
-  :dependencies [[org.clojure/clojure "1.9.0-RC1"]
+  :dependencies [[org.clojure/clojure "1.9.0"]
                  [criterium "0.4.4"]
                  [org.clojure/core.async "0.3.465"]
                  [com.cemerick/pomegranate "1.0.0"]
